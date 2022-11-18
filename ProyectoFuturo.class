@@ -1,3 +1,4 @@
+//@TatianaGarijo
 public class EjerProyectFutu {
     public EjerProyectFutu(){}
     public String veredicto(String valor1, String valor2) {
